@@ -6,8 +6,7 @@
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
-  <a href='https://djinni.co/q/d87b6f12dd/'><img alt="Static Badge" src="https://img.shields.io/badge/Oleksandr%20Vasyliev-blue?style=flat&logo=django&link=https%3A%2F%2Fdjinni.co%2Fq%2Fd87b6f12dd%2F" > </a>
-  <a href='https://dou.ua/users/alexv0102/' ><img alt="Static Badge" src="https://img.shields.io/badge/DOU-black?style=flat&logo=d&link=https%3A%2F%2Fdou.ua%2Fusers%2Falexv0102%2F"> </a> <a href='https://www.linkedin.com/in/oleksandr-v-0a6389244/' ><img alt="Static Badge" src="https://img.shields.io/badge/Oleksandr%20Vasyliev-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foleksandr-v-0a6389244%2F"></a>
+  <a href='https://dou.ua/users/alexv0102/' ><img alt="Static Badge" src="https://img.shields.io/badge/DOU-black?style=flat&logo=d&link=https%3A%2F%2Fdou.ua%2Fusers%2Falexv0102%2F"> </a> <a href='https://www.linkedin.com/in/vasyliev-oleksandr' ><img alt="Static Badge" src="https://img.shields.io/badge/Oleksandr%20Vasyliev-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Foleksandr-v-0a6389244%2F"></a>
 </div>
 
 
